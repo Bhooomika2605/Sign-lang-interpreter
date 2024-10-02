@@ -1,0 +1,8 @@
+0 Bye
+1 Hello
+2 how are you
+3 I am fine
+4 Ok
+5 Same to u
+6 Take care
+7 Think
